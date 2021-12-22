@@ -47,4 +47,5 @@
 | [Tim](https://github.com/timjans01)   | Improving this awesome page |
 | [Ayal](https://github.com/AyalX)   | Management |
 | [Jacobb](https://github.com/Jacobb626)   | Pull requests |
+| [Skyme](https://github.com/SkymeOnCrack)   | NeoSkyme |
 

@@ -48,10 +48,3 @@
 | [Tim](https://github.com/timjans01)   | Improving this awesome page |
 | [Ayal](https://github.com/AyalX)   | Management |
 | [Jacobb](https://github.com/Jacobb626)   | Pull requests |
-
-
-
-<!-- LICENSE -->
-## License
-
-This project is licensed under the [Neo License](https://github.com/NeoniteDev/NeoniteV2/blob/main/LICENSE)

@@ -1,50 +1,4 @@
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 
-<!-- PROJECT LOGO -->
-
-<p align="center">
-	<img align="center" src="https://cdn.discordapp.com/attachments/838613584970776608/839187334515130408/neonitev2.png" alt="Logo" width="216" height="127">
-</p>
-<p align="center">A Fortnite private server/lobby emulator allowing you to design your dream Fortnite experience.</p>
-<p align="center">Use code Neonite in the item shop! #EpicPartner</p>
-<p align="center">
-	<a href="https://github.com/NeoniteDev/NeoniteV2/releases">Downloads</a> | 
-	<a href="https://github.com/NeoniteDev/NeoniteV2/issues">Report a Bug</a> |
-	<a href="https://dsc.gg/neonite">Discord Server</a> | 
-	<a href="https://neonitedev.github.io/?source=NeoniteV2-readme">Website</a>
-</p>
-<p align="center">
-    <img alt="Release" src="https://img.shields.io/github/v/release/NeoniteDev/NeoniteV2?color=blue&style=for-the-badge">
-    <img alt="Stars" src="https://img.shields.io/github/stars/NeoniteDev/NeoniteV2?color=blue&style=for-the-badge">
-</p>
-
-
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-<ol>
-    <li><a href="#about-neonite-v2">About Neonite V2</a></li>
-    <li><a href="#installation">Installation</a></li>
-    <li><a href="#faqs">FAQs</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#credits">Credits</a></li>
-    <li><a href="#license">License</a></li>
-</ol>
-
-<!-- ABOUT NEONITEV2 -->
-## About Neonite V2
-
-Neonite V2 is a popular private server written in [Node.js](https://nodejs.org/en/download/current/), aimed to provide a fun yet easy-to-use program for people wanting to customize their Fortnite experience.
-_This project was made for fun and it doesn't aim to harm the original game by any means, If you are an Epic Games employee and have any problems with this project, please do not hesitate to [contact us](#contact) through your official business email._ <br>
-_In acquiescence to Epic Games Inc. - Please note that access to all cosmetics for Neonite V2 has been stripped. If you want to use skins, please purchase them on Fortnite._
 
 <!-- INSTALL -->
 ## Installation
@@ -74,12 +28,6 @@ _In acquiescence to Epic Games Inc. - Please note that access to all cosmetics f
  * Why don't I see any cosmetics in my locker?
    * We removed cosmetics because Epic Games made it clear it does not like services that offer cosmetics for free. If you wish for skins you're welcome to add them yourself.
 
-<!-- CONTACT -->
-## Contact
-
-Email: <a href="mailto:contact@neonite.dev">contact@neonite.dev</a>
-
-Discord Server: [Neo](https://discord.gg/vM8p3mpWBS)
 
 
 <!-- CREDITS -->

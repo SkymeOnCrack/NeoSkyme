@@ -16,15 +16,13 @@
 <!-- FAQs -->
 ## FAQs
 
- * How do I access Neonite V2?
-   * You can access Neonite V2's dashboard at http://localhost:5595/.
  * Can I go in-game?
    * No, however, Neonite++ is available to use for in-game support, Check it out [here](https://github.com/NeoniteDev/NeonitePP).
  * Will I get banned?
    * No, you won't get banned because Neonite V2 doesn't connect to any Epic Games related services.
  * How do I play with my friends?
-   * Neonite V2 is a locally-hosted project, meaning it has no party or friends functionality.
- * Why don't I see any cosmetics in my locker?
+   * Neonite is a locally-hosted project, meaning it has no party or friends functionality.
+ * Why do I see cosmetics in my locker?
    * We removed cosmetics because Epic Games made it clear it does not like services that offer cosmetics for free. If you wish for skins you're welcome to add them yourself.
 
 

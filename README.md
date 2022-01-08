@@ -23,8 +23,7 @@
  * How do I play with my friends?
    * Neonite is a locally-hosted project, meaning it has no party or friends functionality.
  * Why do I see cosmetics in my locker?
-   * We removed cosmetics because Epic Games made it clear it does not like services that offer cosmetics for free. If you wish for skins you're welcome to add them yourself.
-
+   * Because Skyme added cosmetics.
 
 
 <!-- CREDITS -->
